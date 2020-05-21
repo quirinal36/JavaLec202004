@@ -6,6 +6,7 @@ public class Class0430 {
 		storage.num1 = 10;
 		storage.num2 = 20;
 		
+		
 		int total = storage.num1 / storage.num2;
 		
 		System.out.println(total);
